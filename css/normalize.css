@@ -139,6 +139,7 @@ sup {
 
 img {
   border-style: none;
+  z-index: 10;
 }
 
 /* Forms
