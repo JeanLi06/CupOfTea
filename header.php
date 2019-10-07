@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/normalize.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="css/flexslider.css" type="text/css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script src="js/jquery.flexslider.js"></script>
 		<script charset="utf-8" type="text/javascript">
 		$(window).load(function() {
@@ -40,7 +40,7 @@
 				<a href="">grands crus</a>
 				<a href="">accessoires</a>
 				<a href="">épicerie</a>
-				<a href="">notre histoire</a>
+				<a href="about.php">notre histoire</a>
 			</nav>
 		</div>
 	</header>

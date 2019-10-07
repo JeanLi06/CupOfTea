@@ -1,5 +1,4 @@
-<?php include("header.php"); ?>
-
+<?php include 'header.php'; ?>
 	<main  class="container">
 		<h1>C'est noël, profitez-en !</h1>
 		<img src="img/offre-noel.jpg" alt="offre-noel" title="offre-noel" id="bandeauPromotions">
@@ -8,8 +7,8 @@
 		<!-- SLIDER -->
   	<div class="flexslider">
   	  	<ul class="slides">
-  		    <li><img src="img/slider/1.jpg" /></li>
-  		    <li><img src="img/slider/2.jpg" /></li>
+  		    <li><img src="img/slider/1.jpg" alt="image 1"></li>
+  		    <li><img src="img/slider/2.jpg" alt="image 2"></li>
   	  </ul>
   	</div>
 	</section>
@@ -50,4 +49,4 @@
 		</article>
 	</section>
 	</main>
-<?php include("footer.php"); ?>
+<?php include 'footer.php'; ?>
