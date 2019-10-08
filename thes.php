@@ -11,7 +11,7 @@
 				<h3>Blue of London</h3>
 				<img src="img/product/product1.jpg" alt="Blue of London">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des Lords</h3>
@@ -67,7 +67,7 @@
 				<h3>Blue of London</h3>
 				<img src="img/product/product1.jpg" alt="Blue of London">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des Lords</h3>

@@ -16,7 +16,7 @@
 body {
     font-size: 16px;
     color: #C1D660;
-    /* background-color: #eee; */
+    background-color: #eee;
     font-family: 'Amaranth', sans-serif;
 }
 
@@ -42,6 +42,7 @@ h3 {
     margin: 0 auto;
     padding: 19px;
     text-align: center;
+    background-color: white;
 }
 
 /* HEADER */
@@ -206,14 +207,16 @@ nav a:hover {
     color: #CB9E54;
 }
 
-#section3articles a, .listingThes3thes article a {
+#section3articles a, .listingThes3thes article a, .two-columns a:first-of-type {
     background-color: #CB9E54;
     width: 150px;
-    padding: 10px;
-    margin: 10px;
+    padding: 10px 25px;
+    /* margin: 10px; */
     color: white;
     text-transform: uppercase;
     text-align: center;
+    font-size: 14px;
+    letter-spacing: 1px;
 }
 
 /*Effet au survol du bouton*/
@@ -426,6 +429,58 @@ section.concept p {
 }
 
 /****************************************************
+				PAGE Products
+****************************************************/
+.two-columns div:first-of-type{
+    text-align: left;
+}
+
+.two-columns div:last-of-type{
+    text-align: right;
+}
+
+.article .two-columns {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.article h3, .article h4, .article p {
+    display: block;
+}
+
+.two-columns i {
+    color: #feaa10;
+}
+
+.two-columns i:nth-of-type(5) {
+    color: #636364;
+}
+
+select {
+    min-width: 200px;
+}
+
+.two-columns a:nth-of-type(2) {
+    display: block;
+    margin-top: 18px;
+    font-size: 0.8rem;
+    color: #9ADC1A;
+}
+
+.two-columns .fa-heart{
+     color: #e48675;
+}
+
+.product{
+    color: #636364;
+}
+
+.product section{
+     text-align: left;
+}
+
+/****************************************************
 				 RESPONSIVE
 ****************************************************/
 
@@ -492,7 +547,6 @@ section.concept p {
         display: flex;
         flex-direction: column;
     }
-
 
     /*FOOTER NAV*/
     footer nav {
