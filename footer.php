@@ -12,7 +12,7 @@
         <article><i class="fas fa-phone"></i>
             <small>section client</small>
         </article>
-        <article><i class="fas fa-check"></i>
+        <article><i class="fas fa-check-circle"></i>
             <small>garantie qualité</small>
         </article>
     </nav>
