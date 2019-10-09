@@ -10,20 +10,24 @@
                         <img src="img/product/product1.jpg" alt="Blue of London">
                     </div>
                     <div>
-                        <i class="fas fa-star "></i>
-                        <i class="fas fa-star "></i>
-                        <i class="fas fa-star "></i>
-                        <i class="fas fa-star "></i>
-                        <i class="fas fa-star "></i>
-                        <p>Voir les 56 avis Clients</p>
-                        <select name="pochette" id="">
-                            <option value="">Pochette de 100g</option>
-                            <option value="">Pochette de 250g</option>
-                            <option value="">Pochette de 500g</option>
-                        </select>
-                        <p class="prix">8,50€</p>
-                        <a href="">Ajouter au panier</a>
-                        <a href=""><i class="fas fa-heart"></i> Ajouter à ma liste d'envie</a>
+                        <div>
+                            <i class="fas fa-star "></i>
+                            <i class="fas fa-star "></i>
+                            <i class="fas fa-star "></i>
+                            <i class="fas fa-star "></i>
+                            <i class="fas fa-star "></i>
+                            <label for="pochette">Voir les 56 avis Clients</label>
+                        </div>
+                        <div>
+                            <select name="pochette" id="pochette">
+                                <option value="">Pochette de 100g</option>
+                                <option value="">Pochette de 250g</option>
+                                <option value="">Pochette de 500g</option>
+                            </select>
+                            <p class="prix">8,50€</p>
+                            <a href="">Ajouter au panier</a>
+                            <a href=""><i class="fas fa-heart"></i> Ajouter à ma liste d'envie</a>
+                        </div>
                     </div>
                 </div>
                 <section><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi cum dolorum fugit magnam
@@ -38,6 +42,6 @@
                     <h4>Profitez d'une remise de 5% sur la pochette de 500g (prix déjà remisé)</h4>
                     <h4>Profitez d'une remise de 10% sur le lot de 2 pochettes de 500g (prix déjà remisé)</h4>
                 </section>
-               </article>
+            </article>
     </main>
 <?php include 'footer.php'; ?>

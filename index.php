@@ -29,7 +29,7 @@
 			<h3>Thé du hammam</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In est inventore facere aperiam distinctio, quas, mollitia ut odit architecto cum aliquam, explicabo omnis sunt vel dolorum accusamus! Ipsum, aut enim.</p>
 			<p>A partir de</p><strong class="prix">8,50€</strong>
-			<a href="">voir ce produit</a>
+			<a href="product.php">voir ce produit</a>
 		</article>
 		<article>
 			<h2>Notre best-seller</h2>
@@ -37,7 +37,7 @@
 			<h3>Thé du hammam</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In est inventore facere aperiam distinctio, quas, mollitia ut odit architecto cum aliquam, explicabo omnis sunt vel dolorum accusamus! Ipsum, aut enim.</p>
 			<p>A partir de</p><strong class="prix">8,50€</strong>
-			<a href="">voir ce produit</a>
+			<a href="product.php">voir ce produit</a>
 		</article>
 		<article>
 			<h2>Notre coup de coeur</h2>
@@ -45,7 +45,7 @@
 			<h3>Thé du hammam</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In est inventore facere aperiam distinctio, quas, mollitia ut odit architecto cum aliquam, explicabo omnis sunt vel dolorum accusamus! Ipsum, aut enim.</p>
 			<p>A partir de</p><strong class="prix">8,50€</strong>
-			<a href="">voir ce produit</a>
+			<a href="product.php">voir ce produit</a>
 		</article>
 	</section>
 	</main>

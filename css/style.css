@@ -209,8 +209,8 @@ nav a:hover {
 
 #section3articles a, .listingThes3thes article a, .two-columns a:first-of-type {
     background-color: #CB9E54;
-    width: 150px;
-    padding: 10px 25px;
+    /* width: 150px; */
+    padding: 10px 15px;
     /* margin: 10px; */
     color: white;
     text-transform: uppercase;
@@ -226,13 +226,12 @@ nav a:hover {
 
 .prix {
     font-size: 24px;
+    margin-bottom: 1rem;
 }
 
 /*FOOTER*/
 footer {
-    background-color: #9ADC1A;
-    background: no-repeat url("../img/bg.jpg");
-    background-position: center;
+    background: #9ADC1A url("../img/bg.jpg") no-repeat center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -432,11 +431,16 @@ section.concept p {
 				PAGE Products
 ****************************************************/
 .two-columns div:first-of-type{
-    text-align: left;
+    /* text-align: left; */
 }
 
 .two-columns div:last-of-type{
     text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 20px 0;
 }
 
 .article .two-columns {
@@ -445,7 +449,7 @@ section.concept p {
     justify-content: space-between;
 }
 
-.article h3, .article h4, .article p {
+.article h3, .article h4, .article p, .article label {
     display: block;
 }
 

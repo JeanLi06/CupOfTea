@@ -17,13 +17,13 @@
 				<h3>Thé des Lords</h3>
 				<img src="img/product/product2.jpg" alt="Thé des Lords">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des vahinés</h3>
 				<img src="img/product/product3.jpg" alt="Thé des vahinés">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 		</section>
 	</section>
@@ -39,19 +39,19 @@
 				<h3>Vive les fêtes</h3>
 				<img src="img/product/product1.jpg" alt="Vive les fêtes">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Fleur d'orange Olong</h3>
 				<img src="img/product/product2.jpg" alt="Fleur d'orange Olong">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Olong 7 agrumes</h3>
 				<img src="img/product/product3.jpg" alt="Olong 7 agrumes">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 		</section>
 	</section>
@@ -73,13 +73,13 @@
 				<h3>Thé des Lords</h3>
 				<img src="img/product/product2.jpg" alt="Thé des Lords">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des vahinés</h3>
 				<img src="img/product/product3.jpg" alt="Thé des vahinés">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 		</section>
 	</section>
@@ -95,19 +95,19 @@
 				<h3>Blue of London</h3>
 				<img src="img/product/product1.jpg" alt="Blue of London">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des Lords</h3>
 				<img src="img/product/product2.jpg" alt="Thé des Lords">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des vahinés</h3>
 				<img src="img/product/product3.jpg" alt="Thé des vahinés">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 		</section>
 	</section>
@@ -123,19 +123,19 @@
 				<h3>Blue of London</h3>
 				<img src="img/product/product1.jpg" alt="Blue of London">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des Lords</h3>
 				<img src="img/product/product2.jpg" alt="Thé des Lords">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 			<article>
 				<h3>Thé des vahinés</h3>
 				<img src="img/product/product3.jpg" alt="Thé des vahinés">
 				<p>A partir de</p><strong class="prix">8,50€</strong>
-				<a href="">voir ce produit</a>
+				<a href="product.php">voir ce produit</a>
 			</article>
 		</section>
 	</section>
