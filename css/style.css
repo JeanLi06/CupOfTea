@@ -27,21 +27,22 @@ html {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 4rem;
     text-align: center;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 2.5rem;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .prix {
-    font-size: 24px;
+    font-size: 2.4rem;
     margin-bottom: 1rem;
+    color: #101010;
 }
 
 .container {
@@ -425,7 +426,7 @@ main h2 span {
 }
 
 .listingThes3thes h3 {
-    color: grey;
+    color: #3c1125;
 }
 
 .listingThes3thes article {
@@ -522,10 +523,6 @@ section.concept p {
 /****************************************************
 				PAGE Products
 ****************************************************/
-.two-columns div:first-of-type {
-    /* text-align: left; */
-}
-
 .two-columns div:last-of-type {
     text-align: right;
     display: -webkit-box;
@@ -579,7 +576,7 @@ select {
 .two-columns a:nth-of-type(2) {
     display: block;
     margin-top: 18px;
-    font-size: 0.8rem;
+    font-size: 1.4rem;
     color: #9adc1a;
 }
 
@@ -602,6 +599,11 @@ select {
 /*mobile*/
 /*HEADER*/
 @media screen and (max-width: 768px) {
+
+    html {
+        font-size: 60%;
+    }
+
     .container {
         max-width: 760px;
     }
@@ -630,18 +632,18 @@ select {
         flex-direction: column;
     }
 
-    /*pour positionner les panier*/
+    /*pour positionner le panier*/
     header {
         position: relative;
-        height: 370px;
+        height: auto;
     }
 
     #sectionHeader3 > span {
         display: block;
-        position: fixed;
+        position: absolute;
         left: 5px;
-        top: 30px;
-        padding-top: 11px;
+        top: 73px;
+        padding: 12px 7px 12px;
         border-radius: 5px;
         height: 40px;
         background-color: #c1d660;
@@ -650,7 +652,6 @@ select {
 
     #sectionHeader1 p {
         padding: 1rem 0;
-        font-size: 2rem;
     }
 
     nav,
@@ -667,7 +668,8 @@ select {
     }
 
     #logo {
-        margin-top: 75px;
+        margin-top: 130px;
+        margin-bottom: 20px;
     }
 
     #section3articles {
@@ -690,6 +692,60 @@ select {
         flex-direction: column;
     }
 
+    .listingThes3thes {
+        flex-direction: column;
+    }
+
+    .listingThes > article img {
+        display: none;
+    }
+
+    /* Page product*/
+    .product {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .product .two-columns,
+    .note {
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .two-columns div:last-of-type {
+        align-items: center;
+        width: 95%;
+    }
+
+    select {
+        min-width: 100%;
+    }
+
+    .bouton {
+        display: block;
+        width: 100%;
+    }
+
+    .two-columns a:nth-of-type(2) {
+        font-size: 1.7rem;
+    }
+
+    /*Page ABOUT*/
+    .about img:nth-child(2) {
+        float: none;
+        margin: 0 auto;
+        width: 95%;
+        height: auto;
+    }
+
+    .concept {
+        flex-direction: column;
+    }
+
+    .concept article {
+        width: 95%;
+    }
+
     /*FOOTER NAV*/
     footer nav {
         font-size: 100%;
@@ -702,7 +758,7 @@ select {
     }
 
     footer nav article {
-        font-size: 1.8rem;
+        /*font-size: 1.8rem;*/
         margin: 0px 10px;
     }
 }

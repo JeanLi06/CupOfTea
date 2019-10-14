@@ -10,7 +10,7 @@
                         <img src="img/product/product1.jpg" alt="Blue of London">
                     </div>
                     <div>
-                        <div>
+                        <div class="note">
                             <i class="fas fa-star "></i>
                             <i class="fas fa-star "></i>
                             <i class="fas fa-star "></i>
@@ -25,7 +25,7 @@
                                 <option value="">Pochette de 500g</option>
                             </select>
                             <p class="prix">8,50€</p>
-                            <a href="">Ajouter au panier</a>
+                            <a href="" class="bouton">Ajouter au panier</a>
                             <a href=""><i class="fas fa-heart"></i> Ajouter à ma liste d'envie</a>
                         </div>
                     </div>
