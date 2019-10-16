@@ -63,5 +63,6 @@
         <a href="#"><i class="fa fa-angle-up"></i></a>
     </div>
 </footer>
+<script src="js/script.js"></script>
 </body>
 </html>
