@@ -424,6 +424,11 @@ main h2 span {
     margin-bottom: 30px;
 }
 
+.listingThes3thes img {
+    width: 70%;
+    margin: 0 auto;
+}
+
 .listingThes3thes h3 {
     color: #3c1125;
 }
