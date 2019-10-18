@@ -1,12 +1,12 @@
 <?php include 'header.php'; ?>
 <main  class="container">
-	<section class = "listingThes">
+	<section class = "listing-thes">
 		<article>
 			<img src="img/tea/1.jpg" alt="">
             <h2><span>Thé noir</span></h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis eum illo corporis nemo, repudiandae sed libero vero natus labore autem sequi alias at similique mollitia totam eius sint incidunt debitis aliquam iure quas doloribus cumque distinctio quae! Magni a eligendi placeat distinctio deserunt culpa beatae officiis, excepturi quos id quia illum fugiat.</p>
 		</article>
-		<section class = "listingThes3thes">
+		<section class = "listing-thes-3-thes">
 			<article>
 				<h3>Blue of London</h3>
 				<img src="img/product/product3_big.jpg" alt="Blue of London">
@@ -28,13 +28,13 @@
 		</section>
 	</section>
 
-	<section class = "listingThes">
+	<section class = "listing-thes">
 		<article>
 			<img src="img/tea/2.jpg" alt="">
             <h2><span>Thé vert</span></h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis eum illo corporis nemo, repudiandae sed libero vero natus labore autem sequi alias at similique mollitia totam eius sint incidunt debitis aliquam iure quas doloribus cumque distinctio quae! Magni a eligendi placeat distinctio deserunt culpa beatae officiis, excepturi quos id quia illum fugiat.</p>
 		</article>
-		<section class = "listingThes3thes">
+		<section class = "listing-thes-3-thes">
 			<article>
 				<h3>Thé du hamman</h3>
 				<img src="img/product/product1_big.jpg" alt="Vive les fêtes">
@@ -56,13 +56,13 @@
 		</section>
 	</section>
 
-	<section class = "listingThes">
+	<section class = "listing-thes">
 		<article>
 			<img src="img/tea/3.jpg" alt="">
             <h2><span>Oolong</span></h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis eum illo corporis nemo, repudiandae sed libero vero natus labore autem sequi alias at similique mollitia totam eius sint incidunt debitis aliquam iure quas doloribus cumque distinctio quae! Magni a eligendi placeat distinctio deserunt culpa beatae officiis, excepturi quos id quia illum fugiat.</p>
 		</article>
-        <section class = "listingThes3thes">
+        <section class = "listing-thes-3-thes">
             <article>
                 <h3>Vive les fêtes</h3>
                 <img src="img/product/product8_big.jpg" alt="Vive les fêtes">
@@ -84,13 +84,13 @@
         </section>
 	</section>
 
-	<section class = "listingThes">
+	<section class = "listing-thes">
 		<article>
 			<img src="img/tea/4.jpg" alt="Thé blanc">
             <h2><span>Thé blanc</span></h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis eum illo corporis nemo, repudiandae sed libero vero natus labore autem sequi alias at similique mollitia totam eius sint incidunt debitis aliquam iure quas doloribus cumque distinctio quae! Magni a eligendi placeat distinctio deserunt culpa beatae officiis, excepturi quos id quia illum fugiat.</p>
 		</article>
-		<section class = "listingThes3thes">
+		<section class = "listing-thes-3-thes">
 			<article>
 				<h3>Thé des songes blancs</h3>
 				<img src="img/product/product11_big.jpg" alt="Blue of London">
@@ -112,13 +112,13 @@
 		</section>
 	</section>
 
-	<section class = "listingThes">
+	<section class = "listing-thes">
 		<article>
 			<img src="img/tea/5.jpg" alt="Rooibos">
             <h2><span>Rooibos</span></h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis eum illo corporis nemo, repudiandae sed libero vero natus labore autem sequi alias at similique mollitia totam eius sint incidunt debitis aliquam iure quas doloribus cumque distinctio quae! Magni a eligendi placeat distinctio deserunt culpa beatae officiis, excepturi quos id quia illum fugiat.</p>
 		</article>
-		<section class = "listingThes3thes">
+		<section class = "listing-thes-3-thes">
 			<article>
 				<h3>Rooibos à la verveine</h3>
 				<img src="img/product/product14_big.jpg" alt="Blue of London">

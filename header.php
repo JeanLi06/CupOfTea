@@ -20,11 +20,11 @@
 <!--HEADER-->
 <header>
     <img src="img/ribbon.svg" alt="ribbon">
-    <section id="sectionHeader1">
-        <p>Livraison offerte à partir de 65€ d'achat</p>
+    <section id="section-header1">
+        <p>Livraison offerte à partir de 65€ d'achat !</p>
     </section>
-    <div class="enTete">
-        <section id="sectionHeader2">
+    <div class="en-tete">
+        <section id="section-header2">
             <a href="index.php"><img src="img/logo.png" alt="logo" id="logo"></a>
             <div id="panier"><span>Mon Panier </span><span><i class="fas fa-shopping-cart"></i> 42,00€</span>
             </div>

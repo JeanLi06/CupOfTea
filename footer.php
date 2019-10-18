@@ -16,7 +16,7 @@
             <small>garantie qualité</small>
         </article>
     </nav>
-    <section id="footerTroisArticles">
+    <section id="footer-trois-articles">
         <article>
             <h2>Cup of Tea</h2>
             <ul>
